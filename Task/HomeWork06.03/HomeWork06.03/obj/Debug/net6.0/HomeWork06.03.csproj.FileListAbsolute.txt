@@ -1,0 +1,15 @@
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\bin\Debug\net6.0\HomeWork06.03.exe
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\bin\Debug\net6.0\HomeWork06.03.deps.json
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\bin\Debug\net6.0\HomeWork06.03.runtimeconfig.json
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\bin\Debug\net6.0\HomeWork06.03.dll
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\bin\Debug\net6.0\HomeWork06.03.pdb
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.csproj.AssemblyReference.cache
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.AssemblyInfoInputs.cache
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.AssemblyInfo.cs
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.csproj.CoreCompileInputs.cache
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.dll
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\refint\HomeWork06.03.dll
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.pdb
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\HomeWork06.03.genruntimeconfig.cache
+C:\Users\Sanan Shahmammadov\Desktop\HomeWork06.03\HomeWork06.03\obj\Debug\net6.0\ref\HomeWork06.03.dll
